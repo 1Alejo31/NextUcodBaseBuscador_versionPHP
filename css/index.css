@@ -11,6 +11,7 @@ video#vidFondo {
 
 }
 
+
 .contenedor{
   background-color: rgba(242, 242, 242, 0.5);
   width: 80%;
@@ -92,10 +93,8 @@ video#vidFondo {
 }
 .colContenido{
   width: 75%;
-  display: flex;
   flex-flow: row wrap;
-  align-content: space-between;
-  padding: 20px;
+  padding: 5px;  
 }
 .tituloContenido{
   width: 100%;
